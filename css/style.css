@@ -1,0 +1,8 @@
+@media (min-width: 992px) {
+  main {
+    padding-right: 50px;
+  }
+  .hide-m {
+    visibility: hidden;
+  }
+}

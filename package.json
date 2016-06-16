@@ -1,0 +1,22 @@
+{
+  "name": "matzite",
+  "version": "1.0.0",
+  "description": "Materialize me",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchim/materializeSite.git"
+  },
+  "author": "Peter Chim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchim/materializeSite/issues"
+  },
+  "homepage": "https://github.com/pchim/materializeSite#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
