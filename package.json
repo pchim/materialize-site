@@ -18,5 +18,8 @@
   "homepage": "https://github.com/pchim/materializeSite#readme",
   "devDependencies": {
     "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "mocha": "^2.5.3"
   }
 }
